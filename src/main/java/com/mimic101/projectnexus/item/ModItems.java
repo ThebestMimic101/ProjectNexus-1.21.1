@@ -45,6 +45,28 @@ public class ModItems {
     public static final DeferredItem<Item> ENERGY_CELL = ITEMS.register("energy_cell",
             () -> new Item(new Item.Properties()));
 
+    // Ores to ingots
+    public static final DeferredItem<Item> URANIUM_INGOT = ITEMS.register("uranium_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> TITANIUM_INGOT = ITEMS.register("titanium_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> ALUMINUM_INGOT = ITEMS.register("aluminum_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> PLATINUM_INGOT = ITEMS.register("platinum_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> LITHIUM_INGOT = ITEMS.register("lithium_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> IRIDIUM_INGOT = ITEMS.register("iridium_ingot",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> NEXUS_CRYSTAL_INGOT = ITEMS.register("nexus_crystal_ingot",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

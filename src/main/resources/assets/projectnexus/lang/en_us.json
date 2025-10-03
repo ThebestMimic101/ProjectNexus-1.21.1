@@ -10,5 +10,31 @@
   "item.projectnexus.nexus_crystal": "Nexus Crystal",
   "item.projectnexus.void_essence": "Void Essence",
   "item.projectnexus.biofuel_pellet": "Biofuel Pellet",
-  "item.projectnexus.energy_cell": "Energy Cell"
+  "item.projectnexus.energy_cell": "Energy Cell",
+
+  "block.projectnexus.void_quarry": "Void Quarry",
+  "block.projectnexus.display_block": "Display Block",
+  "block.projectnexus.supercomputer_block": "Supercomputer Block",
+  "block.projectnexus.nuclear_reactor_core": "Nuclear Reactor Core",
+  "block.projectnexus.plastic_block": "Plastic Block",
+  "block.projectnexus.silicone_block": "Silicone Block",
+  "block.projectnexus.nexus_beacon": "Nexus Beacon",
+  "block.projectnexus.nexus_bricks": "Nexus Bricks",
+  "block.projectnexus.nexus_glass": "Nexus Glass",
+  "block.projectnexus.uranium_ore": "Uranium Ore",
+  "block.projectnexus.titanium_ore": "Titanium Ore",
+  "block.projectnexus.aluminum_ore": "Aluminum Ore",
+  "block.projectnexus.platinum_ore": "Platinum Ore",
+  "block.projectnexus.lithium_ore": "Lithium Ore",
+  "block.projectnexus.iridium_ore": "Iridium Ore",
+  "block.projectnexus.nexus_crystal_ore": "Nexus Crystal Ore",
+
+  "item.projectnexus.uranium_ingot": "Uranium Ingot",
+  "item.projectnexus.titanium_ingot": "Titanium Ingot",
+  "item.projectnexus.aluminum_ingot": "Aluminum Ingot",
+  "item.projectnexus.platinum_ingot": "Platinum Ingot",
+  "item.projectnexus.lithium_ingot": "Lithium Ingot",
+  "item.projectnexus.iridium_ingot": "Iridium Ingot",
+  "item.projectnexus.nexus_crystal_ingot": "Nexus Crystal Ingot"
+
 }
