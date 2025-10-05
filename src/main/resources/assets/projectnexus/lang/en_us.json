@@ -35,6 +35,23 @@
   "item.projectnexus.platinum_ingot": "Platinum Ingot",
   "item.projectnexus.lithium_ingot": "Lithium Ingot",
   "item.projectnexus.iridium_ingot": "Iridium Ingot",
-  "item.projectnexus.nexus_crystal_ingot": "Nexus Crystal Ingot"
+  "item.projectnexus.nexus_crystal_ingot": "Nexus Crystal Ingot",
+
+  "item.projectnexus.iron_mould": "Iron Mould",
+  "item.projectnexus.ai_chip": "AI Chip",
+  "item.projectnexus.blueprint_of_the_nexus": "Blueprint of the Nexus",
+  "item.projectnexus.atom_core": "Atom Core",
+  "item.projectnexus.nuclear_coal": "Nuclear Coal",
+
+  "block.projectnexus.atomizer": "Atomizer",
+  "block.projectnexus.presser": "Presser",
+  "block.projectnexus.unknown_ore": "Unknown Ore",
+  "block.projectnexus.radiation_block": "Radiation Block",
+  "block.projectnexus.void_block": "Void Block",
+
+  "creativetab.projectnexus.project_nexus_items": "Project Nexus Items",
+  "creativetab.projectnexus.project_nexus_blocks": "Project Nexus Blocks",
+  "creativetab.projectnexus.project_nexus_armor": "Project Nexus Armor",
+  "creativetab.projectnexus.project_nexus_weapons": "Project Nexus Weapons"
 
 }

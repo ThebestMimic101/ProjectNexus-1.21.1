@@ -67,6 +67,22 @@ public class ModItems {
     public static final DeferredItem<Item> NEXUS_CRYSTAL_INGOT = ITEMS.register("nexus_crystal_ingot",
             () -> new Item(new Item.Properties()));
 
+    // Basic items
+    public static final DeferredItem<Item> IRON_MOULD = ITEMS.register("iron_mould",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> AI_CHIP = ITEMS.register("ai_chip",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> BLUEPRINT_OF_THE_NEXUS = ITEMS.register("blueprint_of_the_nexus",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> ATOM_CORE = ITEMS.register("atom_core",
+            () -> new Item(new Item.Properties()));
+
+    public static final DeferredItem<Item> NUCLEAR_COAL = ITEMS.register("nuclear_coal",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
